@@ -1,4 +1,4 @@
-import NavBar from "@/components/NavBar";
+import NavBar from "./NavBar";
 import { createClient } from "@/prismicio";
 
 export default async function Header() {
