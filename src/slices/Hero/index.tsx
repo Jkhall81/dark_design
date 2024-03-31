@@ -1,4 +1,4 @@
-import Bounded from "@/components/Bouded";
+import Bounded from "@/components/Bounded";
 import ButtonLink from "@/components/ButtonLink";
 import StarGrid from "@/components/StarGrid";
 import { Content, isFilled } from "@prismicio/client";

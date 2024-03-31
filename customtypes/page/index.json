@@ -27,6 +27,18 @@
         "fieldset": "Slice Zone",
         "config": {
           "choices": {
+            "integrations": {
+              "type": "SharedSlice"
+            },
+            "case_study": {
+              "type": "SharedSlice"
+            },
+            "showcase": {
+              "type": "SharedSlice"
+            },
+            "bento": {
+              "type": "SharedSlice"
+            },
             "hero": {
               "type": "SharedSlice"
             },
